@@ -1,0 +1,26 @@
+{
+  "name": "transforms",
+  "version": "0.1.0",
+  "description": "A small random transformation library",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solo800/transforms.git"
+  },
+  "author": "Adam Solomon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/solo800/transforms/issues"
+  },
+  "homepage": "https://github.com/solo800/transforms#readme",
+  "dependencies": {
+    "jquery": "^3.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.1"
+  }
+}
